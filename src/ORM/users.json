@@ -1,0 +1,10 @@
+[
+    {"id": 1, "nombre": "Héctor", "email": "hector@gmail.com"},
+    {"id": 2, "nombre": "Jesús", "email": "jesus@gmail.com"},
+    {"id": 3, "nombre": "Ismael", "email": "ismael@gmail.com"},
+    {"id": 4, "nombre": "Carlos", "email": "carlos@gmail.com"},
+    {"id": 5, "nombre": "María", "email": "maria@gmail.com"},
+    {"id": 6, "nombre": "Laura", "email": "laura@gmail.com"},
+    {"id": 7, "nombre": "Pablo", "email": "pablo@gmail.com"},
+    {"id": 8, "nombre": "Ana", "email": "ana@gmail.com"}
+]
